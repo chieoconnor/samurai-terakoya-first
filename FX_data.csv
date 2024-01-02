@@ -1,0 +1,271 @@
+BEGIN_DAILY_DATA
+20231229
+Country,SPOT,FRWD
+Argentine Peso,808.496000,808.496000
+Australian Dollar,1.465524,1.465298
+Bangladesh Taka,109.750000,109.750000
+Botswanan Pula,13.386881,13.392439
+Brazilian Real,4.857600,4.857600
+Canadian Dollar,1.318600,1.318496
+Chilean Peso,873.285000,873.285000
+Chinese Yuan Offshore,7.120600,7.118300
+Chinese Yuan,7.092200,7.092200
+Colombian Peso,3874.000000,3874.000000
+Costa Rican Colon,521.090000,521.090000
+Czech Koruna,22.349600,22.343900
+Danish Kroner,6.748350,6.746858
+Dominican Peso,58.060000,58.060000
+Egyptian Pound,30.925000,30.925000
+European Monetary Unit,0.905264,0.905114
+Ghanaian Cedi,11.915000,11.915000
+Hong Kong Dollar,7.808550,7.810884
+Hungarian Forint,346.005550,346.257950
+Indian Rupee,83.213750,83.231250
+Indonesian Rupiah,15397.000000,15397.700000
+Israeli Shekel,3.600900,3.600700
+Japanese Yen,140.980000,140.843810
+Kazakhstan Tenge,455.890000,455.890000
+Kenyan Shilling,157.000000,157.000000
+Kuwaiti Dinar,0.307250,0.307250
+Malaysian Ringgit,4.595000,4.593750
+Mexican Peso,16.934500,16.934500
+Moroccan Dirham,9.868900,9.868900
+New Zealand Dollar,1.579405,1.579395
+Nigerian Naira,897.500000,897.810000
+Norwegian Krone,10.155700,10.154272
+Pakistani Rupee,281.125000,281.125000
+Peruvian Sol,3.702600,3.702600
+Philippino Peso,55.375000,55.380000
+Polish Zloty,3.932250,3.931723
+Qatar Riyal,3.641000,3.641000
+Romanian Leu,4.503600,4.503704
+Russian Ruble,89.400000,89.950000
+Saudi Arabian Riyal,3.750000,3.750000
+Serbian Dinar,106.130000,106.130000
+Singapore Dollar,1.319100,1.318830
+South African Rand,18.287500,18.291573
+South Korea Won,1287.900000,1287.900000
+Sri Lankan Rupee,323.755000,323.980000
+Swedish Krona,10.077850,10.076119
+Swiss Franc,0.841650,0.841187
+Taiwanese Dollar,30.690500,30.690500
+Thai Baht,34.132500,34.132500
+Turkish Lire,29.534000,29.614000
+UAE Dirham,3.672750,3.672750
+Ukrainian Hryvnia,38.150000,38.150000
+U.K. Sterling,1.274800,1.274840
+Vietnam Dong,24262.000000,24262.800000
+END_DAILY_DATA
+
+
+
+
+WM/Reuters Closing Spot Rates provided by the WM Company in conjunction with Reuters. For U.K. Sterling, the exchange rates are quoted in U.S. Dollar per British Pound.
+
+ADDITIONAL INFORMATION AVAILABLE UPON REQUEST
+"THIRD PARTY DATA NOTICES "
+
+"INTERACTIVE DATA PRICING AND REFERENCE DATA, LLC "
+
+"In the event that licensee at any time receives index data from Interactive "
+"Data Pricing and Reference Data, LLC ('IDC') containing evaluations, rather "
+"than market quotations, for certain securities or certain other data "
+"related to such securities, the following provisions shall also apply: "
+""
+
+"(a) Evaluated securities are typically complicated financial instruments. "
+"There are many methodologies (including computer-based analytical modeling "
+"and individual security evaluations) available to generate approximations of "
+"the market value of such securities, and there is significant professional "
+"disagreement about which is best. No evaluation method, including those "
+"used by IDC, may consistently generate approximations that correspond to "
+"actual 'traded' prices of the instruments; (b) IDC's methodologies used "
+"to provide the pricing portion of certain index data may rely on "
+"evaluations; however, licensee acknowledges that there may be errors "
+"or defects in IDC's software, databases, or methodologies that may "
+"cause resultant evaluations to be inappropriate for use in certain applications; "
+"and (c) licensee assumes all responsibility for edit checking, external "
+"verification of evaluations, and ultimately the appropriateness of "
+"use of evaluations and other pricing data provided by IDC via the "
+"index data in licensee's applications, regardless of any efforts made "
+"by IDC in this respect. Licensee shall indemnify and hold IDC completely "
+"harmless in the event that errors, defects, or inappropriate evaluations "
+"are made available via the index data. IDC shall not be liable for "
+"any claim that arose more than one year prior to the institution of "
+"suit therefor. "
+
+"MONETARY AUTHORITY OF SINGAPORE "
+
+"Singapore Government Securities ('SGS') prices are reproduced with "
+"the permission of the Monetary Authority of Singapore. By accessing and "
+"using any part of the SGS data, you shall be deemed to have accepted to "
+"be legally bound by the Terms of Use of the SGS website, available at "
+"http://www.sgs.gov/Terms-of-Use.aspx. Republication or redistribution of "
+"SGS data is permissible when in conjunction with and solely as part "
+"of the dissemination of FTSE fixed income index data. "
+
+"PROVEEDOR INTEGRAL DE PRECIOS S.A. DE C.V. "
+
+"Prices and terms and conditions for Mexican government bonds contained "
+"in the FTSE fixed income index data are provided by Proveedor Integral "
+"de Precios S.A. de C.V. "
+
+"STANDARD & POOR'S CUSIP "
+
+"User agrees and acknowledges that the CUSIP Database and the information "
+"contained therein is and shall remain valuable intellectual property owned "
+"by, or licensed to, Standard & Poor's CUSIP Global Services ('CGS') and "
+"the American Bankers Association ('ABA'), and that no proprietary rights "
+"are being transferred to user in such materials or in any of the "
+"information contained therein. User agrees that misappropriation or "
+"misuse of such materials will cause serious damage to CGS and ABA "
+"and that in such event money damages may not constitute sufficient compensation "
+"to CGS and ABA; consequently, user agrees that in the event of any "
+"misappropriation or misuse, CGS and ABA shall have the right to "
+"obtain injunctive relief in addition to any other legal or financial remedies "
+"to which CGS and ABA may be entitled. "
+
+"User agrees that user shall not publish or distribute in any medium "
+"the CUSIP Database or any information contained therein or summaries or "
+"subsets thereof to any person or entity except in connection with "
+"the normal internal processing of security transactions. User further "
+"agrees that the use of CUSIP numbers and descriptions is not intended "
+"to create or maintain, and does not serve the purpose of the creation "
+"or maintenance of, a master file or database of CUSIP descriptions or "
+"numbers for itself or for any third party recipient of such service and "
+"is not intended to create and does not serve in any way as a substitute "
+"for the CUSIP MASTER TAPE, PRINT, DB, INTERNET, ELECTRONIC, CD-ROM Services "
+"and/or any other future services developed by CGS. "
+
+"NEITHER CGS, ABA NOR ANY OF THEIR AFFILIATES MAKE ANY WARRANTIES, EXPRESS "
+"OR IMPLIED, AS TO THE ACCURACY, ADEQUACY OR COMPLETENESS OF ANY OF "
+"THE INFORMATION CONTAINED IN THE CUSIP DATABASE. ALL SUCH MATERIALS ARE "
+"PROVIDED TO SUBSCRIBER ON AN 'AS IS' BASIS, WITHOUT ANY WARRANTIES AS "
+"TO MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE NOR "
+"WITH RESPECT TO THE RESULTS WHICH MAY BE OBTAINED FROM THE USE OF "
+"SUCH MATERIALS. NEITHER CGS, ABA NOR THEIR AFFILIATES SHALL HAVE ANY "
+"RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR OMISSIONS NOR SHALL THEY "
+"BE LIABLE FOR ANY DAMAGES, WHETHER DIRECT OR INDIRECT, SPECIAL OR "
+"CONSEQUENTIAL EVEN IF THEY HAVE BEEN ADVISED OF THE POSSIBILITY OF "
+"SUCH DAMAGES. "
+
+"IN NO EVENT SHALL THE LIABILITY OF CGS, ABA OR ANY OF THEIR AFFILIATES PURSUANT "
+"TO ANY CAUSE OF ACTION, WHETHER IN CONTRACT, TORT, OR OTHERWISE EXCEED "
+"THE FEE PAID BY USER FOR ACCESS TO SUCH MATERIALS IN THE MONTH IN "
+"WHICH SUCH CAUSE OF ACTION IS ALLEGED TO HAVE ARISEN. FURTHERMORE, CGS "
+"AND ABA SHALL HAVE NO RESPONSIBILITY OR LIABILITY FOR DELAYS OR "
+"FAILURES DUE TO CIRCUMSTANCES BEYOND ITS CONTROL. "
+
+"User agrees that the foregoing terms and conditions shall survive any "
+"termination of its right of access to the materials identified above. "
+""
+
+"Copyright (C) 2022 American Bankers Association. CUSIP database provided "
+"by the Standard & Poor's, CUSIP Global Services, a division of the "
+"McGraw-Hill Companies, Inc. "
+
+"REFINITIV "
+
+"Copyright 2022 Refinitiv. Refinitiv content is the intellectual property "
+"of Refinitiv. Any copying, republication or redistribution of Refinitiv "
+"content, including by caching, framing or similar means, is expressly prohibited "
+"without the prior written consent of Refinitiv. Refinitiv is not "
+"liable for any errors or delays in content, or for any actions taken "
+"in reliance on any content. "
+
+"WORLD MARKETS COMPANY PLC "
+
+"The WM/Reuters Spot Rates and The WM/Reuters Forward Rates provided by "
+"Refinitiv. Refinitiv shall not be liable for any errors in or delays "
+"in providing or making available the data contained within this service "
+"or for any actions taken in reliance on the same. "
+
+"Other Disclosures "
+
+"(C) 2022 London Stock Exchange Group plc and its applicable group undertakings "
+"(the 'LSE Group'). The LSE Group includes (1) FTSE International Limited "
+"('FTSE'), (2) Frank Russell Company ('Russell'), (3) FTSE Global Debt "
+"Capital Markets Inc. and FTSE Global Debt Capital Markets Limited (together, "
+"'FTSE Canada'), (4) MTSNext Limited ('MTSNext'), (5) Mergent, Inc. "
+"('Mergent'), (6) FTSE Fixed Income LLC ('FTSE FI'), (7) The Yield Book "
+"Inc. ('YB'), and (8) Beyond Ratings S.A.S. ('BR'). All rights reserved. "
+""
+
+"The FTSE Fixed Income Indexes are calculated by or on behalf of "
+"FTSE Fixed Income LLC or its affiliate, agent or partner. FTSE International "
+"Limited is authorized and regulated by the Financial Conduct Authority "
+"as a benchmark administrator. "
+
+"FTSE Russell(R) is a trading name of FTSE, Russell, FTSE Canada, MTSNext, "
+"Mergent, FTSE FI, YB, and BR. 'FTSE(R)', 'Russell(R)', 'FTSE Russell(R)', "
+"'MTS(R)', 'FTSE Canada', 'FTSE4Good(R)', 'ICB(R)', 'Mergent(R)' , "
+"'WorldBIG(R)', 'USBIG(R)', 'EuroBIG(R)', 'AusBIG(R)', 'The Yield Book(R)', "
+"'Beyond Ratings(R)', and all other trademarks and service marks used "
+"herein (whether registered or unregistered) are trademarks and/or service "
+"marks owned or licensed by the applicable member of the LSE Group or "
+"their respective licensors and are owned, or used under license, by "
+"FTSE, Russell, MTSNext, FTSE Canada, Mergent, FTSE FI, YB, or BR. "
+""
+
+"All information is provided for information purposes only. All information "
+"and data contained in this publication is obtained by the LSE Group, "
+"from sources believed by it to be accurate and reliable. Because of "
+"the possibility of human and mechanical error as well as other factors, "
+"however, such information and data is provided 'as is' without warranty "
+"of any kind. No member of the LSE Group nor their respective directors, "
+"officers, employees, partners or licensors make any claim, prediction, warranty "
+"or representation whatsoever, expressly or impliedly, either as "
+"to the accuracy, timeliness, completeness, merchantability of any "
+"information or of results to be obtained from the use of the FTSE "
+"Russell Indexes or the fitness or suitability of the FTSE Russell Indexes "
+"for any particular purpose to which they might be put. Any representation of "
+"historical data accessible through FTSE Russell Indexes is provided for "
+"information purposes only and is not a reliable indicator of future "
+"performance. "
+
+"No responsibility or liability can be accepted by any member of "
+"the LSE Group nor their respective directors, officers, employees, partners "
+"or licensors for (a) any loss or damage in whole or in part caused by, "
+"resulting from, or relating to any error (negligent or otherwise) or "
+"other circumstance involved in procuring, collecting, compiling, interpreting, "
+"analyzing, editing, transcribing, transmitting, communicating or "
+"delivering any such information or data or from use of this document or "
+"links to this document or (b) any direct, indirect, special, consequential "
+"or incidental damages whatsoever, even if any member of the LSE Group "
+"is advised in advance of the possibility of such damages, resulting from "
+"the use of, or inability to use, such information. "
+
+"No member of the LSE Group nor their respective directors, officers, employees, "
+"partners or licensors provide investment advice and nothing contained in "
+"this document or accessible through FTSE Russell Indexes, including statistical "
+"data and industry reports, should be taken as constituting financial or "
+"investment advice or a financial promotion. "
+
+"Past performance is no guarantee of future results. Charts and graphs "
+"are provided for illustrative purposes only. Index returns shown may "
+"not represent the results of the actual trading of investable assets. "
+"Certain returns shown may reflect back-tested performance. All performance "
+"presented prior to the index inception date is back-tested performance. Back-tested "
+"performance is not actual performance, but is hypothetical. The back-test "
+"calculations are based on the same methodology that was in effect when "
+"the index was officially launched. However, back-tested data may "
+"reflect the application of the index methodology with the benefit of "
+"hindsight, and the historic calculations of an index may change from "
+"month to month based on revisions to the underlying economic data "
+"used in the calculation of the index. "
+
+"This publication may contain forward-looking assessments. These are "
+"based upon a number of assumptions concerning future conditions that "
+"ultimately may prove to be inaccurate. Such forward-looking assessments are "
+"subject to risks and uncertainties and may be affected by various factors "
+"that may cause actual results to differ materially. No member of "
+"the LSE Group nor their licensors assume any duty to and do not undertake "
+"to update forward-looking assessments. "
+
+"No part of this information may be reproduced, stored in a retrieval system "
+"or transmitted in any form or by any means, electronic, mechanical, photocopying, "
+"recording or otherwise, without prior written permission of the applicable "
+"member of the LSE Group. Use and distribution of the LSE Group data "
+"requires a license from FTSE, Russell, FTSE Canada, MTSNext, Mergent, "
+"FTSE FI, YB, BR and/or their respective licensors. "
+
